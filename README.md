@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi 👋, I'm M Umar Raza
 
-<!--
-**umarraza78/umarraza78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A passionate Software Engineer from Pakistan
 
-Here are some ideas to get you started:
+![Profile views](https://komarev.com/ghpvc/?username=umarraza985&label=Profile%20views&color=0e75b6&style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🎓 I’m currently pursuing my degree in Software Engineering  
+- 💻 Passionate about Full Stack Development  
+- 🌱 I’m currently learning **Data Science**  
+- 🤝 I’m looking to collaborate on **Web, Full-Stack and Java related projects**  
+- 📂 All of my projects are available at [https://github.com/umarraza985](https://github.com/umarraza985)  
+- 📫 How to reach me: [umereng90@gmail.com](mailto:umereng90@gmail.com)
+
+---
+
