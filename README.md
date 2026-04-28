@@ -52,13 +52,15 @@
 ---
 
 ### 📊 GitHub Stats:
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umarraza89&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarraza89&theme=radical" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <!-- STREAK STATS - Alternative working domain -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=umarraza78&theme=github-dark-blue&hide_border=true&stroke=10B981&ring=10B981&fire=a78bfa&currStreakLabel=10B981&background=0d1117&sideLabels=6e7681&dates=6e7681" width="45%"/>
+  
+  
+  <!-- ACTIVITY GRAPH - Alternative: Use Metrics or remove -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umarraza78&bg_color=0d1117&color=10B981&line=10B981&point=a78bfa&hide_border=true&area=true&area_color=10B98122" width="45%"/>
+</div>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarraza89&layout=compact&theme=radical" alt="Top Languages" />
