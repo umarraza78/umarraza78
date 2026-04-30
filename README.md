@@ -9,7 +9,7 @@
 
 - 🎓 I’m currently pursuing my degree in Software Engineering
 - 💻 Passionate about Full Stack Development  
-- 🌱 I’m currently learning ** Devops,Cloud Computing**
+- 🌱 I’m currently learning **Devops,Cloud Computing**
 - 🤝 I’m looking to collaborate on **Web,Full-Stack and Java related projects**
 - 👨‍💻 All of my projects are available at https://github.com/umarraza78
 - 📫 How to reach me: **umarkamboh080@gmail.com**
@@ -46,7 +46,7 @@
 
 ### 🏆 GitHub Trophies:
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=umarraza89&theme=tokyonight" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=umarraza78&theme=tokyonight" alt="Trophies" />
 </p>
 
 ---
@@ -63,5 +63,5 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarraza89&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarraza78&layout=compact&theme=radical" alt="Top Languages" />
 </p>
