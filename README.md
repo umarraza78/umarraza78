@@ -9,7 +9,7 @@
 
 - 🎓 I’m currently pursuing my degree in Software Engineering
 - 💻 Passionate about Full Stack Development  
-- 🌱 I’m currently learning ** Data Science**
+- 🌱 I’m currently learning ** Devops,Cloud Computing**
 - 🤝 I’m looking to collaborate on **Web,Full-Stack and Java related projects**
 - 👨‍💻 All of my projects are available at https://github.com/umarraza78
 - 📫 How to reach me: **umarkamboh080@gmail.com**
@@ -27,7 +27,7 @@
 
 ### 💻 Languages and Tools:
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="40" />
+  <img src="https://skillicons.dev/icons?i=aws" width="40" alt="AWS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />
