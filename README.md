@@ -52,16 +52,22 @@
 ---
 
 ### 📊 GitHub Stats:
-
 <div align="center">
-  <!-- STREAK STATS - Alternative working domain -->
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=umarraza78&theme=github-dark-blue&hide_border=true&stroke=10B981&ring=10B981&fire=a78bfa&currStreakLabel=10B981&background=0d1117&sideLabels=6e7681&dates=6e7681" width="45%"/>
-  
-  
-  <!-- ACTIVITY GRAPH - Alternative: Use Metrics or remove -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umarraza78&bg_color=0d1117&color=10B981&line=10B981&point=a78bfa&hide_border=true&area=true&area_color=10B98122" width="45%"/>
+
+  <!-- Streak Stats - Official service -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarraza78&theme=github-dark-blue&hide_border=true&stroke=10B981&ring=10B981&fire=a78bfa&currStreakLabel=10B981&background=0d1117&sideLabels=6e7681&dates=6e7681" width="45%"/>
+
+  <!-- General Stats - Official vercel app -->
+  <img src="https://github-readme-stats.vercel.app/api?username=umarraza78&show_icons=true&theme=radical&hide_border=true&count_private=true" width="45%"/>
+
 </div>
 
+<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarraza78&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarraza78&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umarraza78&bg_color=0d1117&color=10B981&line=10B981&point=a78bfa&hide_border=true&area=true" width="90%"/>
 </p>
