@@ -82,16 +82,6 @@
 
 ---
 
-### 🎯 Goals for 2025:
-
-- [ ] 🏅 Earn AWS Cloud Practitioner Certification
-- [ ] 🐳 Master Docker & Kubernetes in production
-- [ ] 💡 Contribute to 3+ open source projects
-- [ ] 🧠 Solve 200+ LeetCode problems
-- [ ] 🚀 Build and deploy a full-stack cloud-native app
-
----
-
 ### 🏅 Certifications & Achievements:
 
 <p align="left">
