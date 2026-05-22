@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=120&section=header&text=M%20Umar%20Raza&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20Cloud%20%7C%20DevOps&descAlignY=60&descAlign=50" />
+
 <h1 align="center">Hi 👋, I'm M Umar Raza</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 
@@ -32,6 +34,9 @@
   <a href="https://github.com/umarraza78" target="blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://leetcode.com/umarraza78/" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
 </p>
 
 ---
@@ -39,19 +44,7 @@
 ### 💻 Languages and Tools:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws" width="40" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" alt="Haskell" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="Selenium" width="40" />
+  <img src="https://skillicons.dev/icons?i=aws,cpp,cs,css,figma,git,html,java,kubernetes,mysql,docker,linux,spring,selenium" height="40" />
 </p>
 
 ---
@@ -67,11 +60,8 @@
 ### 📊 GitHub Stats:
 
 <div align="center">
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=umarraza78&theme=github-dark-blue&hide_border=true&stroke=10B981&ring=10B981&fire=a78bfa&currStreakLabel=10B981&background=0d1117&sideLabels=6e7681&dates=6e7681" width="45%"/>
-
   <img src="https://github-readme-stats.vercel.app/api?username=umarraza78&show_icons=true&theme=radical&hide_border=true&count_private=true" width="45%"/>
-
 </div>
 
 <p align="center">
@@ -84,6 +74,52 @@
 
 ---
 
+### 🐍 Contribution Snake:
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/umarraza78/umarraza78/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/umarraza78/umarraza78/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/umarraza78/umarraza78/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+---
+
+### 🧩 LeetCode Stats:
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/umarraza78?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
+### 🎯 Goals for 2025:
+
+- [ ] 🏅 Earn AWS Cloud Practitioner Certification
+- [ ] 🐳 Master Docker & Kubernetes in production
+- [ ] 💡 Contribute to 3+ open source projects
+- [ ] 🧠 Solve 200+ LeetCode problems
+- [ ] 🚀 Build and deploy a full-stack cloud-native app
+
+---
+
+### 🏅 Certifications & Achievements:
+
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20(In%20Progress)-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-OOP%20Fundamentals-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-Actions-100000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
+
+### 💬 Quote of the Day:
+
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=10B981&height=80&section=footer" />
