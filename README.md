@@ -18,7 +18,7 @@
 - 🌱 I'm currently learning **DevOps, Cloud Computing**
 - 🤝 I'm looking to collaborate on **Web, Full-Stack and Java related projects**
 - 👨‍💻 All of my projects are available at [github.com/umarraza78](https://github.com/umarraza78)
-- 📫 How to reach me: **umarkamboh080@gmail.com**
+- 📫 How to reach me: **umarraza.se@gmail.com**
 
 ---
 
