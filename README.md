@@ -34,7 +34,7 @@
   <a href="https://github.com/umarraza78" target="blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://leetcode.com/umarraza78/" target="blank">
+  <a href="https://leetcode.com/u/umarraza78/" target="blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
 </p>
@@ -65,10 +65,6 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umarraza78&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=umarraza78&bg_color=0d1117&color=10B981&line=10B981&point=a78bfa&hide_border=true&area=true" width="90%"/>
 </p>
 
@@ -82,14 +78,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/umarraza78/umarraza78/output/github-contribution-grid-snake.svg" />
     <img alt="Snake animation" src="https://raw.githubusercontent.com/umarraza78/umarraza78/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
-
----
-
-### 🧩 LeetCode Stats:
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/umarraza78?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
 </p>
 
 ---
