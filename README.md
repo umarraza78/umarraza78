@@ -15,9 +15,10 @@
 
 - 🎓 I'm currently pursuing my degree in Software Engineering
 - 💻 Passionate about Full Stack Development
-- 🌱 I'm currently learning **DevOps, Cloud Computing**
-- 🤝 I'm looking to collaborate on **Web, Full-Stack and Java related projects**
+- 🌱 I'm currently learning **Agentic AI**
+- 🤝 I'm looking to collaborate on **Web, Full-Stack and Artificial Intelligence Related Projects**
 - 👨‍💻 All of my projects are available at [github.com/umarraza78](https://github.com/umarraza78)
+- 👨‍💻 You can access my work portfolio here-> https://omer-raza78portfolio.vercel.app/
 - 📫 How to reach me: **umarraza.se@gmail.com**
 
 ---
