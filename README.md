@@ -13,7 +13,7 @@
 
 ---
 
-- 🎓 I'm currently pursuing my degree in Software Engineering
+- 🎓 I'm a Software Engineer
 - 💻 Passionate about Full Stack Development
 - 🌱 I'm currently learning **Agentic AI**
 - 🤝 I'm looking to collaborate on **Web, Full-Stack and Artificial Intelligence Related Projects**
